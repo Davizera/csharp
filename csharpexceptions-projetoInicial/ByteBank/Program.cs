@@ -12,6 +12,29 @@ namespace ByteBank
         {
             try
             {
+                leitoArquivos();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Expception capturada no Main");
+            }
+            Console.WriteLine("Aperte enter para sair da aplicação. . .");
+            Console.ReadLine();
+        }
+
+        private static void leitoArquivos()
+        {
+            using (LeitorDeArquivo leitor = new LeitorDeArquivo("Contas.txt"))
+            {
+                leitor.LerProximaLinha();
+                leitor.LerProximaLinha();
+                leitor.LerProximaLinha();
+            }
+        }
+        private static void criaContas()
+        {
+            try
+            {
                 ContaCorrente conta = new ContaCorrente(123, 456789);
                 ContaCorrente conta2 = new ContaCorrente(123, 987654);
 
