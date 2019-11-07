@@ -24,5 +24,22 @@ namespace ByteBank
             }
         }
         public string Profissao { get; set; }
+
+        public override string ToString()
+        {
+            return $"Este é o cliente {Nome}, que tem esse cpf: {CPF} e trabalha como {Profissao}";
+        }
+
+        public override bool Equals(object obj)
+        {
+            Cliente outroCliente = obj as Cliente;
+
+            if(outroCliente == null)
+            {
+                return false;
+            }
+
+            return CPF == outroCliente.CPF;
+        }
     }
 }
