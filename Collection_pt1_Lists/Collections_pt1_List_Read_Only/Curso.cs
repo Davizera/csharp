@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Collections_pt1_List_Read_Only
 {
-    class Curso
+    public class Curso
     {
-        private IList<Aula> aulas;
+        private List<Aula> aulas;
         private string nome;
         private string instrutor;
 
@@ -18,7 +18,7 @@ namespace Collections_pt1_List_Read_Only
             get { return new ReadOnlyCollection<Aula>(aulas); }
         }
 
-        internal void AddClass(Aula aula)
+        public void AddClass(Aula aula)
         {
             aulas.Add(aula);
         }

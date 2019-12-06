@@ -16,7 +16,6 @@ namespace Collections_pt1_List_Read_Only
             cSharpCollections.AddClass(new Aula("Criando uma aula", 15));
             cSharpCollections.AddClass(new Aula("Modelando com collection", 45));
 
-
             //Print(cSharpCollections.Aulas);
 
             Console.WriteLine(cSharpCollections);

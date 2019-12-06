@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Collections_pt1_List_Read_Only
+namespace Collections_pt1_Sets
 {
     public class Aula : IComparable
     {
@@ -20,7 +17,7 @@ namespace Collections_pt1_List_Read_Only
         public string Titulo { get { return _titulo; } set { _titulo = value; } }
         public int Tempo { get { return _tempo; } private set { } }
 
-            public override string ToString()
+        public override string ToString()
         {
             return $"Nome: {Titulo}, Duração: {Tempo}";
         }
