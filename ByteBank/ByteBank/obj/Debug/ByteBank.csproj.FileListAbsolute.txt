@@ -1,0 +1,2 @@
+c:\users\dsousa\documents\visual studio 2015\Projects\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\dsousa\Documents\Visual Studio 2015\Projects\CSharp\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
