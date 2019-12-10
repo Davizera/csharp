@@ -1,7 +1,0 @@
-C:\Users\dsousa\Documents\Visual Studio 2017\Projects\Collections_pt2\Sorted_list\bin\Debug\Sorted_list.exe.config
-C:\Users\dsousa\Documents\Visual Studio 2017\Projects\Collections_pt2\Sorted_list\bin\Debug\Sorted_list.exe
-C:\Users\dsousa\Documents\Visual Studio 2017\Projects\Collections_pt2\Sorted_list\bin\Debug\Sorted_list.pdb
-C:\Users\dsousa\Documents\Visual Studio 2017\Projects\Collections_pt2\Sorted_list\obj\Debug\Sorted_list.csprojAssemblyReference.cache
-C:\Users\dsousa\Documents\Visual Studio 2017\Projects\Collections_pt2\Sorted_list\obj\Debug\Sorted_list.csproj.CoreCompileInputs.cache
-C:\Users\dsousa\Documents\Visual Studio 2017\Projects\Collections_pt2\Sorted_list\obj\Debug\Sorted_list.exe
-C:\Users\dsousa\Documents\Visual Studio 2017\Projects\Collections_pt2\Sorted_list\obj\Debug\Sorted_list.pdb
