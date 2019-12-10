@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9FF66064-D032-4361-BE32-8450AAC5EDC2}</ProjectGuid>
+    <ProjectGuid>{3B6CAE34-F776-48F2-9645-96C295AA96F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SortedDictionary</RootNamespace>
-    <AssemblyName>SortedDictionary</AssemblyName>
+    <RootNamespace>SortedSet</RootNamespace>
+    <AssemblyName>SortedSet</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aluno.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
