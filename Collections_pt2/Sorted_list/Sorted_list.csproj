@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F533A91-F893-4EC1-9BEE-D83E72568B21}</ProjectGuid>
+    <ProjectGuid>{3461358B-136A-4055-8791-E635FBE9EF90}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Collections_pt2</RootNamespace>
-    <AssemblyName>Collections_pt2</AssemblyName>
+    <RootNamespace>Sorted_list</RootNamespace>
+    <AssemblyName>Sorted_list</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aluno.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
