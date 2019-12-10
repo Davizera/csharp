@@ -1,9 +1,0 @@
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\07-ByteBank\bin\Debug\07-ByteBank.exe.config
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\07-ByteBank\bin\Debug\07-ByteBank.exe
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\07-ByteBank\bin\Debug\07-ByteBank.pdb
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\07-ByteBank\obj\Debug\07-ByteBank.exe
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\07-ByteBank\obj\Debug\07-ByteBank.pdb
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\07-ByteBank\obj\Debug\ByteBank.csprojResolveAssemblyReference.cache
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\CSharp\07-ByteBank\bin\Debug\07-ByteBank.exe.config
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\CSharp\07-ByteBank\obj\Debug\07-ByteBank.exe
-C:\Users\dsousa\Documents\Visual Studio 2015\Projects\CSharp\07-ByteBank\obj\Debug\07-ByteBank.pdb
