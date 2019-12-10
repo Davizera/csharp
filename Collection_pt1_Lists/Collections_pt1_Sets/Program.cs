@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Collections_pt1_Sets
 {
@@ -7,6 +8,7 @@ namespace Collections_pt1_Sets
         static void Main(string[] args)
         {
             Curso cSharpcollections = new Curso("C# Collections", "Marcelo Oliveira");
+            LinkedList<string> dias = new LinkedList<string>();
 
             cSharpcollections.AddClass(new Aula("Trabalhando com Listas", 45));
             cSharpcollections.AddClass(new Aula("Crinado uma Aula", 15));
@@ -49,6 +51,8 @@ namespace Collections_pt1_Sets
             Console.WriteLine();
             Console.WriteLine("Aperte qualquer tecla para sair da aplicação . . .");
             Console.ReadLine();
+
+
         }
     }
 }
